@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @EdwardLangdon
+- 👋 Hi, I’m [@EdwardLangdon](https://github.com/EdwardLangdon)
 - 👀 I’m interested in creating Webpages
-- 🌱 I’m currently learning HTML and CSS in FreeCodeCamp
-- 📫 You can reach me via [Matrix](https://matrix.to/#/@edward:envs.net)
+- 🌱 I’m currently learning HTML and CSS in FreeCodeCamp in my Free time.
+- 📫 You can reach me via the Following ways :  
+    - [Matrix](https://matrix.to/#/@edward:envs.net) 
+    - Email : contact@langdon.slmail.me [ I prefer being contacted via my [GPG Key](./GPG%20Keys/email-gpg.asc) ]
