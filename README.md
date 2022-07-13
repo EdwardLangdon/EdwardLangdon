@@ -4,3 +4,4 @@
 - 📫 You can reach me via the Following ways :  
     - [Matrix](https://matrix.to/#/@edward:envs.net) 
     - Email : contact@langdon.slmail.me [ I prefer being contacted via my [GPG Key](./GPG%20Keys/email-gpg.asc) ]
+- I always sign my Commits in github. You can see my commit signing GPG key [here](./GPG%20Keys/commit-gpg.asc)
